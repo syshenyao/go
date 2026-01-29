@@ -1,4 +1,4 @@
-module github.com/syshenyao/goStudy
+module github.com/syshenyao/go
 
 go 1.20
 
