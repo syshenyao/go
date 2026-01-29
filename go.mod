@@ -1,4 +1,4 @@
-module github.com/syshenyao/go
+module github.com/syshenyao/go/v3
 
 go 1.20
 
